@@ -8,7 +8,7 @@
 
 ### About me      
 
-[!GitHub stats](https://github-readme-stats.vercel.app/api?username=X-DDDDD&show_icons=true&theme=radical)](https://github.com/x-ddddd/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=X-DDDDD&show_icons=true&theme=radical)](https://github.com/x-ddddd/github-readme-stats)
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=X-DDDDD&layout=compact&hide_border=true&langs_count=10)   
 
 - :) My blog 👉 https://blog.csdn.net/whatever_ittakes         
