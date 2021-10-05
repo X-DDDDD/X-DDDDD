@@ -12,11 +12,12 @@ Hi there, I'm **nobody**, **an ordinary engineering student**s.
 
 ---
 
-⏳ Year progress { ██████████████████████▁▁▁▁▁▁▁▁ } 75.92 %
+
+⏳ Year progress { ██████████████████████▁▁▁▁▁▁▁▁ } 75.93 %
 
 ---
 
-⏰ Updated on Tue, 05 Oct 2021 02:35:20 GMT
+⏰ Updated on Tue, 05 Oct 2021 03:02:47 GMT
 
 ---
 
@@ -45,5 +46,6 @@ Hi there, I'm **nobody**, **an ordinary engineering student**s.
 ### My GitHub Contributions:  
 
 ![](https://raw.githubusercontent.com/X-DDDDD/X-DDDDD/main/assets/github-contribution-grid-snake.svg)  
+
 
 
