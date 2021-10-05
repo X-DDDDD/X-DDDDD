@@ -16,7 +16,7 @@ function generateProgressBar() {
 const readme = `\
 ## Hi there 👋
 
-Hi there, I'm **nobody**, **an ordinary engineering student**s.
+Hi there, I'm **nobody**, **an ordinary engineering student**.
 
 
 
