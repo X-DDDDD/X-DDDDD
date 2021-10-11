@@ -13,11 +13,11 @@ Hi there, I'm **nobody**, **an ordinary engineering student**.
 ---
 
 
-⏳ Year progress { ███████████████████████▁▁▁▁▁▁▁ } 77.67 %
+⏳ Year progress { ███████████████████████▁▁▁▁▁▁▁ } 77.74 %
 
 ---
 
-⏰ Updated on Mon, 11 Oct 2021 12:09:41 GMT
+⏰ Updated on Mon, 11 Oct 2021 18:07:03 GMT
 
 ---
 
