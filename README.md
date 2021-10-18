@@ -13,7 +13,7 @@ Hi there, I'm **nobody**, **an ordinary engineering student**.
 ---
 
 
-⏳ Year progress { ███████████████████████▁▁▁▁▁▁▁ } 79.52 %
+⏳ Year progress { ███████████████████████▁▁▁▁▁▁▁ } 79.52 % # 不再更新剩余进度 --- 2021-10-18
 
 ---
 
